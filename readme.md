@@ -10,4 +10,7 @@
 
 ## Usage examples:
 
-## Maintainers: damien-d13 theoBattani
+## Maintainers: 
+
+- @damien-d13 
+- @theoBattani
