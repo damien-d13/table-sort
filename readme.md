@@ -10,4 +10,4 @@
 
 ## Usage examples:
 
-## Maintainers:
+## Maintainers: damien-d13 theoBattani
