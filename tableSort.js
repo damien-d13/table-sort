@@ -1,7 +1,13 @@
 
 function sortTable(tableId, sortClass, defaultOrder = "DESC") {
 
-    let table = document.getElementById(tableId);
+    let table = null;
+    try {
+        table = document.getElementById(tableId);
+    }catch (error) {
+        console.error(error);
+        return;
+    }
     let tableBody = table.getElementsByTagName("tbody")[0];
     let tableRows = tableBody.getElementsByTagName("tr");
 
@@ -70,12 +76,3 @@ function sortTable(tableId, sortClass, defaultOrder = "DESC") {
 
     sortByColumn(0, order === "ASC");
 }
-
-
-// Call Funtion with option
-
-sortTable(
-    "myTable",
-    "sort",
-    "ASC"
-);
