@@ -1,16 +1,32 @@
 # Intro:
 
-## Latest updates:
+This project is a boilerplate change your value
 
-## Requierement:
+## Table of Contents
 
-## Features:
+- [Updates](#Updates)
+- [Requierement](#Requierement)
+- [Features](#Features)
+- [Installation](#installation)
+- [Configuration](#Configuration)
+- [Usage](#Usage)
+- [Maintainers](#Maintainers)
 
-## Installation and configuration:
+## Updates
 
-## Usage examples:
+## Requierement
 
-## Maintainers: 
+## Features
 
-- @damien-d13 
-- @theoBattani
+## Installation
+
+## Configuration
+
+
+## Usage
+
+## Maintainers
+
+* __[Damien Devoti](https://github.com/damien-d13)__
+* __[Theo Battani ](https://github.com/theoBattani)__
+
